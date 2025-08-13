@@ -1,5 +1,6 @@
 # Conversor de Moedas
 Projeto Conversor de Moedas by alura / oracle One
+<img width="500" height="500" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/6bf4242d-04c3-4afa-9987-6ac6e6f6b5fe" />
 
 **Descrição:**
 
@@ -9,6 +10,7 @@ Desenvolvido com base nas aulas de Back End disponibilizadas pela Alura com Orac
 **Tecnologias:**
 
 * JAVA
+
 
 
 
