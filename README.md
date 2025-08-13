@@ -1,23 +1,18 @@
 # Conversor de Moedas
-Projeto Conversor de Moedas by alura / oracle One
+
 <p align="center">
   <img width="400" height="400" alt="Badge-Conversor" src="https://github.com/user-attachments/assets/6bf4242d-04c3-4afa-9987-6ac6e6f6b5fe" />
 </p>
 
-**Descrição:**
+> Projeto desenvolvido durante o programa **Oracle ONE** em parceria com a **Alura**.
 
-Conversor de moedas. Projeto realizado utilizando a API ExchangeRate, para coletar dados em tempo real.
-Desenvolvido com base nas aulas de Back End disponibilizadas pela Alura com Oracle ONE.
+## 💱 Descrição
 
-**Tecnologias:**
+Este é um conversor de moedas que realiza consultas em tempo real utilizando a API pública [ExchangeRate API](https://www.exchangerate-api.com/). O projeto foi construído em **Java** e tem como objetivo reforçar conceitos de requisições HTTP, tratamento de dados externos e desenvolvimento Back End.
 
-* JAVA
+## 🚀 Tecnologias utilizadas
 
-
-
-
-
-
-
-
-
+- **Java**
+- **Consumo de API REST**
+- **Gson**
+- **Maven**
